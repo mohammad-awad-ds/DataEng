@@ -3,6 +3,12 @@
 
 This is homework 2 part of the Data Engineering Course
 
+--------------------
+
+## **Note**: The workflow is extremely slow at the second stage when the extraction of data begins using the time library.
+
+--------------
+
 #### Data URL:
 https://github.com/CSSEGISandData/COVID-19
 
