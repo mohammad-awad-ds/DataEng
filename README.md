@@ -2,15 +2,12 @@
 
 # Hello!
 
-## This github repo was created as part of the Data Engineering Course by 
-                      Mohammad Awad 20218131
+## This github repo contains two folders:
 
-## It contains two folders:
-
-#### **Homework_1** it includes 2 folders Q1 Nifi and Q2 Airflow with postgres & mongoDB with their own readme files
+#### **ETL_Work** it includes 2 folders one showcasing work using Nifi and the other using Airflow to extract CSV data from postgres, transform it into JSON, and loading it to MongoDB, both folders contain their own readme file.
 
 ----
 
-#### **Homework_2** for the JHU Airflow application.
+#### **Building_Pipeline_for_COVID_Data_Using_Airflow** for the JHU Covid data Airflow application.
 
 --------------------
